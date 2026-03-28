@@ -16,7 +16,7 @@ namespace Assignment1
             Console.Write("Enter second integer: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
 
-            int sum = num1 + num2;
+            int sum = num1+num2;
 
             if (num1 == num2)
                 Console.WriteLine(sum*3);
