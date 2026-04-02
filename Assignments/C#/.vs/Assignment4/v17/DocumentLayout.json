@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DotNet Training\\Assignments\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|c:\\dotnet training\\assignments\\c#\\assignment4\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|C:\\DotNet Training\\Assignments\\C#\\assignment4\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|C:\\DotNet Training\\Assignments\\C#\\assignment4\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|C:\\DotNet Training\\Assignments\\C#\\assignment4\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40BFA5F9-F600-4333-8E27-6EBD9C79E0C1}|Assignment4\\Assignment4.csproj|solutionrelative:assignment4\\program1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program3.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program3.cs",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program3.cs",
+              "RelativeToolTip": "Assignment4\\Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T10:48:14.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program2.cs",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program2.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program2.cs",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program2.cs",
+              "RelativeToolTip": "Assignment4\\Program2.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:50:21.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program1.cs",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program1.cs",
+              "RelativeDocumentMoniker": "Assignment4\\Program1.cs",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\Program1.cs",
+              "RelativeToolTip": "Assignment4\\Program1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:18:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainProgram.cs",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\MainProgram.cs",
+              "RelativeDocumentMoniker": "Assignment4\\MainProgram.cs",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\C#\\Assignment4\\MainProgram.cs",
+              "RelativeToolTip": "Assignment4\\MainProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:17:30.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
