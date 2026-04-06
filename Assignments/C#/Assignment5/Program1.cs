@@ -20,6 +20,7 @@ namespace Assignment5
 
             balance += amount;
             Console.WriteLine("Deposited: " + amount);
+
         }
         public void Withdraw(double amount)
         {
@@ -40,9 +41,6 @@ namespace Assignment5
 
     public class InsufficientBalanceException : Exception
     {
-        public InsufficientBalanceException()
-            : base("Insufficient balance in the account.") { }
-
         public InsufficientBalanceException(string message)
             : base(message) { }
     }

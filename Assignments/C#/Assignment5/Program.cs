@@ -17,8 +17,7 @@ namespace Assignment5
 
                 account.Deposit(500);
                 account.Withdraw(200);
-                account.Withdraw(2000); 
-
+                
                 Console.WriteLine("Current Balance: " + account.GetBalance());
             }
             catch (InsufficientBalanceException ex)
