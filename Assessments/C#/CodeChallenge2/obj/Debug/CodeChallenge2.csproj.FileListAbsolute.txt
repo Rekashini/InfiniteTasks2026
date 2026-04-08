@@ -1,0 +1,16 @@
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.exe.config
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\bin\Debug\CodeChallenge2.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.AssemblyReference.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge2\CodeChallenge2\obj\Debug\CodeChallenge2.exe.config
+C:\DotNet Training\Assessments\C#\CodeChallenge2\bin\Debug\CodeChallenge2.exe.config
+C:\DotNet Training\Assessments\C#\CodeChallenge2\bin\Debug\CodeChallenge2.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge2\bin\Debug\CodeChallenge2.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.AssemblyReference.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge2\obj\Debug\CodeChallenge2.exe.config
+C:\DotNet Training\Assessments\C#\CodeChallenge2\obj\Debug\CodeChallenge2.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge2\obj\Debug\CodeChallenge2.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge2\obj\Debug\CodeChallenge2.pdb
