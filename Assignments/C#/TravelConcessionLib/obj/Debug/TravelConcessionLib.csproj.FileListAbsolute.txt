@@ -1,0 +1,6 @@
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\bin\Debug\TravelConcessionLib.dll
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\bin\Debug\TravelConcessionLib.pdb
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\obj\Debug\TravelConcessionLib.csproj.AssemblyReference.cache
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\obj\Debug\TravelConcessionLib.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\obj\Debug\TravelConcessionLib.dll
+C:\DotNet Training\Assignments\C#\TravelConcessionLib\obj\Debug\TravelConcessionLib.pdb
