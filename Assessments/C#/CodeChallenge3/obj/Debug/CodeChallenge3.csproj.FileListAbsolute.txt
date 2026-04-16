@@ -1,0 +1,8 @@
+C:\DotNet Training\Assessments\C#\CodeChallenge3\bin\Debug\CodeChallenge3.exe.config
+C:\DotNet Training\Assessments\C#\CodeChallenge3\bin\Debug\CodeChallenge3.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge3\bin\Debug\CodeChallenge3.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge3\obj\Debug\CodeChallenge3.csproj.AssemblyReference.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge3\obj\Debug\CodeChallenge3.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge3\obj\Debug\CodeChallenge3.exe
+C:\DotNet Training\Assessments\C#\CodeChallenge3\obj\Debug\CodeChallenge3.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge3\obj\Debug\CodeChallenge3.exe.config

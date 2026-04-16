@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DF837518-01A9-4708-89E5-47AC947F98A2}</ProjectGuid>
+    <ProjectGuid>{2E5E7B1C-7970-46BA-A696-FD2E401E91ED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Assignment7</RootNamespace>
-    <AssemblyName>Assignment7</AssemblyName>
+    <RootNamespace>CodeChallenge3</RootNamespace>
+    <AssemblyName>CodeChallenge3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Assignment7.Program4</StartupObject>
+    <StartupObject>CodeChallenge3.Program3</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,17 +49,10 @@
     <Compile Include="Program1.cs" />
     <Compile Include="Program2.cs" />
     <Compile Include="Program3.cs" />
-    <Compile Include="Program4cs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\TravelConcessionLib\TravelConcessionLib.csproj">
-      <Project>{a0d30227-7a1e-4bdc-bf5a-91504be8fbcc}</Project>
-      <Name>TravelConcessionLib</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
