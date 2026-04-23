@@ -7,66 +7,57 @@
       "RelativeMoniker": "D:0:0:{9A3AB011-D8C1-4393-AC83-2FE37F6EDD63}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DistanceLibrary||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F32FED4E-0740-4D1B-9103-BEAAB24C56D8}|DistanceLibrary\\DistanceLibrary.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\distancelibrary\\library class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F32FED4E-0740-4D1B-9103-BEAAB24C56D8}|DistanceLibrary\\DistanceLibrary.csproj|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\distancelibrary\\library class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F32FED4E-0740-4D1B-9103-BEAAB24C56D8}|DistanceLibrary\\DistanceLibrary.csproj|solutionrelative:distancelibrary\\library class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UnitTestProject1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\program2main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\program2main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\abstract\\abstarctclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\abstract\\abstarctclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\interface\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\interface\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\factories\\factoryclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\factories\\factoryclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\factories\\factoryclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\factories\\factoryclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CodeChallenge4||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\factories\\factoryclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\factories\\factoryclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Program2Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Program2Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\question2\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|solutionrelative:codechallenge4\\question2\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Factories\\FactoryClass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06C7FD6D-CF3F-4410-A865-45E5FE071AE3}|CodeChallenge4\\CodeChallenge4.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\codechallenge4\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Factories\\FactoryClass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A3AB011-D8C1-4393-AC83-2FE37F6EDD63}|UnitTestProject1\\UnitTestProject1.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\unittestproject1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Factories\\FactoryClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F32FED4E-0740-4D1B-9103-BEAAB24C56D8}|DistanceLibrary\\DistanceLibrary.csproj|c:\\dotnet training\\assessments\\c#\\codechallenge4\\distancelibrary\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Abstract\\AbstarctClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Abstract\\AbstarctClass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Concrete\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Concrete\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Concrete\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Interface\\IReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question2\\Interface\\IReportGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CodeChallenge4\\Question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,18 +69,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DistanceLibrary",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\DistanceLibrary\\DistanceLibrary.csproj",
-              "RelativeDocumentMoniker": "DistanceLibrary\\DistanceLibrary.csproj",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\DistanceLibrary\\DistanceLibrary.csproj",
-              "RelativeToolTip": "DistanceLibrary\\DistanceLibrary.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T06:31:35.803Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -104,15 +83,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "DistanceLibrary",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\DistanceLibrary\\DistanceLibrary.csproj",
+              "RelativeDocumentMoniker": "DistanceLibrary\\DistanceLibrary.csproj",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\DistanceLibrary\\DistanceLibrary.csproj",
+              "RelativeToolTip": "DistanceLibrary\\DistanceLibrary.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-23T06:31:35.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UnitTestProject1",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\UnitTestProject1\\UnitTestProject1.csproj",
               "RelativeDocumentMoniker": "UnitTestProject1\\UnitTestProject1.csproj",
               "ToolTip": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\UnitTestProject1\\UnitTestProject1.csproj",
               "RelativeToolTip": "UnitTestProject1\\UnitTestProject1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T06:30:14.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T06:30:14.321Z"
             },
             {
               "$type": "Document",
@@ -129,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Library class.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\DistanceLibrary\\Library class.cs",
               "RelativeDocumentMoniker": "DistanceLibrary\\Library class.cs",
@@ -137,24 +126,22 @@
               "RelativeToolTip": "DistanceLibrary\\Library class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T06:14:46.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T06:14:46.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "CodeChallenge4",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\CodeChallenge4.csproj",
               "RelativeDocumentMoniker": "CodeChallenge4\\CodeChallenge4.csproj",
               "ToolTip": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\CodeChallenge4.csproj",
               "RelativeToolTip": "CodeChallenge4\\CodeChallenge4.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-23T05:56:08.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:56:08.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program2Main.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Program2Main.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Program2Main.cs",
@@ -162,12 +149,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Program2Main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:48:32.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:48:32.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "FactoryClass3.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass3.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Factories\\FactoryClass3.cs",
@@ -175,12 +161,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Factories\\FactoryClass3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:41:28.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:41:28.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "FactoryClass2.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass2.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Factories\\FactoryClass2.cs",
@@ -188,12 +173,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Factories\\FactoryClass2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:41:09.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:41:09.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "FactoryClass1.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Factories\\FactoryClass1.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Factories\\FactoryClass1.cs",
@@ -201,12 +185,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Factories\\FactoryClass1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:40:34.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:40:34.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "AbstarctClass1.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Abstract\\AbstarctClass1.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Abstract\\AbstarctClass1.cs",
@@ -214,12 +197,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Abstract\\AbstarctClass1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:37:03.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:37:03.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
               "Title": "Class3.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class3.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Concrete\\Class3.cs",
@@ -227,12 +209,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Concrete\\Class3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:32:06.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:32:06.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Class2.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class2.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Concrete\\Class2.cs",
@@ -240,12 +221,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Concrete\\Class2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:31:38.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:31:38.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Concrete\\Class1.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Concrete\\Class1.cs",
@@ -253,12 +233,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Concrete\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:31:29.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:31:29.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IReportGenerator.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question2\\Interface\\IReportGenerator.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question2\\Interface\\IReportGenerator.cs",
@@ -266,12 +245,11 @@
               "RelativeToolTip": "CodeChallenge4\\Question2\\Interface\\IReportGenerator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:28:29.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:28:29.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "Question3.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\C#\\CodeChallenge4\\CodeChallenge4\\Question3.cs",
               "RelativeDocumentMoniker": "CodeChallenge4\\Question3.cs",
@@ -279,8 +257,7 @@
               "RelativeToolTip": "CodeChallenge4\\Question3.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T05:25:51.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-23T05:25:51.21Z"
             }
           ]
         }
