@@ -1,0 +1,6 @@
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\obj\Debug\DistanceLibrary.csproj.AssemblyReference.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\obj\Debug\DistanceLibrary.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\bin\Debug\DistanceLibrary.dll
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\bin\Debug\DistanceLibrary.pdb
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\obj\Debug\DistanceLibrary.dll
+C:\DotNet Training\Assessments\C#\CodeChallenge4\DistanceLibrary\obj\Debug\DistanceLibrary.pdb
