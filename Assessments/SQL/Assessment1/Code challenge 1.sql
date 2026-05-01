@@ -86,6 +86,7 @@ insert into customer values
 ---------------------------------------------------------------------------------
 
 --4.Display the Name for the customer from above customer table who live in same address which has character o anywhere in address
+
 select name from customer
 where address like '%o%'
   and address in (
@@ -145,8 +146,7 @@ insert into Employee values
 
 --6.Display the Names of the Employee in lower case, whose salary is null
 
-select lower(name) as employeename
-from employee
+select lower(name) as employeename from employee
 where salary is null;
 
 ----------------------------------------------------------------------------------------------
