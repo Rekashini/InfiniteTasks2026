@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Assignment1\\HTMLPage1.html",
               "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment1\\HTMLPage1.html",
               "RelativeToolTip": "Assignment1\\HTMLPage1.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-05-10T10:10:41.605Z",
               "EditorCaption": ""
@@ -63,7 +63,8 @@
               "RelativeToolTip": "Assignment1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T10:10:12.979Z"
+              "WhenOpened": "2026-05-10T10:10:12.979Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\",
+  "WorkspaceRootPath": "C:\\DotNet Training\\Assignments\\Web Technology\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|c:\\dotnet training\\assignments\\web technology\\assignment2\\assignment2\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|c:\\dotnet training\\assignments\\web technology\\assignment2\\assignment2\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|C:\\DotNet Training\\Assignments\\Web Technology\\assignment2\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|c:\\dotnet training\\assignments\\web technology\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|c:\\dotnet training\\assignments\\web technology\\assignment2\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|C:\\DotNet Training\\Assignments\\Web Technology\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AA095D6-0D62-41E7-80EB-2720961D0F91}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,50 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JavaScript.js",
-              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\JavaScript.js",
-              "RelativeDocumentMoniker": "Assignment2\\JavaScript.js",
-              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\JavaScript.js",
-              "RelativeToolTip": "Assignment2\\JavaScript.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-05-10T10:13:29.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HTMLPage1.html",
-              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\HTMLPage1.html",
-              "RelativeDocumentMoniker": "Assignment2\\HTMLPage1.html",
-              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\HTMLPage1.html",
-              "RelativeToolTip": "Assignment2\\HTMLPage1.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-10T10:12:59.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
-              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Assignment2\\Program.cs",
-              "RelativeToolTip": "Assignment2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-10T10:12:16.707Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -82,6 +43,44 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\JavaScript.js",
+              "RelativeDocumentMoniker": "Assignment2\\JavaScript.js",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\JavaScript.js",
+              "RelativeToolTip": "Assignment2\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-05-10T10:13:29.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HTMLPage1.html",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\HTMLPage1.html",
+              "RelativeDocumentMoniker": "Assignment2\\HTMLPage1.html",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\HTMLPage1.html",
+              "RelativeToolTip": "Assignment2\\HTMLPage1.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-10T10:12:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "C:\\DotNet Training\\Assignments\\Web Technology\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:12:16.707Z"
             }
           ]
         }

@@ -41,7 +41,6 @@ commit;
 
 -- 5. create a user defined function calculate bonus for all employees of a given dept
 
-go
 create function calculate_Bonus(@deptno int, @sal int)
 returns decimal(10,2)
 as
@@ -74,7 +73,7 @@ select
     sal,
     dbo.calculate_bonus(deptno, sal) as bonus
 from emp;
-go
+
 
 
 -- 6.update salary for employees in dept 30 with salary less than 1500
@@ -92,4 +91,3 @@ end;
 --to execute
 exec update_sales_salary;
 
-go
