@@ -1,7 +1,9 @@
+--1.Create Database
 create database Employeemanagement;
 
 use Employeemanagement;
 
+--2.Create Table
 create table Employee_Details (
     Empno int primary key,
     EmpName varchar(50) not null,
@@ -9,7 +11,7 @@ create table Employee_Details (
     Emptype char(1) check (emptype in ('f', 'p'))
 );
 
---Question 1
+-- Question 1 TO DO:
 create procedure Insert_EmployeeDetails
 (
     @EmpName varchar(50),
@@ -29,18 +31,10 @@ begin
 
 end;
 
-
-USE Employeemanagement;
-GO
-Create
-User [INFICS\Rekashinig] for login [INFICS\Rekashinig];
-alter role db_owner add member [INFICS\Rekashinig];
-
-
 select * from Employee_Details;
 
 
---  Question 2
+-- Question 2
 create procedure updateemployeesal
     @empid int,
     @updatedsalary decimal(18,2) output
