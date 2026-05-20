@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Input Change</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <input type="text" id="txt">
+
+    <script>
+
+        $("#txt").change(function () {
+            $("body").append("<p>Input Field Changed</p>");
+        });
+
+    </script>
+
+</body>
+</html>

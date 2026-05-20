@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Multiply and Divide</title>
+</head>
+<body>
+
+    <label>1st Number :</label>
+    <input type="number" id="num1"><br><br>
+
+    <label>2nd Number :</label>
+    <input type="number" id="num2"><br><br>
+
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+
+    <p>The Result Is : </p>
+    <p id="result"></p>
+
+    <script>
+        function multiply()
+        {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+
+            document.getElementById("result").innerHTML = a * b;
+        }
+
+        function divide()
+        {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+
+            document.getElementById("result").innerHTML = a / b;
+        }
+    </script>
+
+</body>
+</html>
