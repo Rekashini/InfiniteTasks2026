@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.Master.cs"
+    Inherits="FoodOrderManagement.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Food Order Management</title>
+    <style>
+    body {
+        background-color: floralwhite;
+        font-family: Arial;
+    }
+
+    .main-container {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .header {
+        background-color:slategray;
+        color: white;
+        padding: 15px;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+
+    .menu-bar {
+        margin-bottom: 15px;
+    }
+
+    .menu-bar a {
+        margin: 5px;
+        padding: 8px 15px;
+        background-color: #3498db;
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        display: inline-block;
+    }
+
+    .menu-bar a:hover {
+        background-color: #1d6fa5;
+    }
+
+    .content-box {
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    footer {
+        margin-top: 20px;
+        color: gray;
+    }
+</style>
+</head>
+
+<body>
+
+<form id="form1" runat="server">
+
+<div class="main-container">
+
+    <div class="header">
+        <h2>Food Order Management System</h2>
+    </div>
+
+    <div class="menu-bar">
+        <asp:HyperLink ID="lnk1" runat="server" NavigateUrl="~/MenuList.aspx">Menu Items</asp:HyperLink>
+        <asp:HyperLink ID="lnk2" runat="server" NavigateUrl="~/AddEditMenu.aspx">Add Menu</asp:HyperLink>
+        <asp:HyperLink ID="lnk3" runat="server" NavigateUrl="~/OrderStats.aspx">Order Stats</asp:HyperLink>
+        <asp:HyperLink ID="lnk4" runat="server" NavigateUrl="~/Logout.aspx">Logout</asp:HyperLink>
+    </div>
+
+    <div class="content-box">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+
+    <footer>
+        © 2026 Food Order Management
+    </footer>
+
+</div>
+
+</form>
+
+</body>
+</html>
