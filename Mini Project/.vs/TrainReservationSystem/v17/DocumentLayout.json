@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "TrainReservationSystem\\Program.cs",
               "ToolTip": "C:\\DotNet Training\\Mini Project\\TrainReservationSystem\\Program.cs",
               "RelativeToolTip": "TrainReservationSystem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T12:30:08.974Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "TrainReservationSystem\\BookingOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:48:26.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:48:26.366Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "TrainReservationSystem\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T10:05:02.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T10:05:02.566Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "TrainReservationSystem\\CancellationOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T07:51:21.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T07:51:21.741Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "TrainReservationSystem\\UserOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T05:35:53.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T05:35:53.13Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "TrainReservationSystem\\DBHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:49:12.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:49:12.702Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "TrainReservationSystem\\TrainOperation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:48:06.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:48:06.722Z"
             }
           ]
         }
