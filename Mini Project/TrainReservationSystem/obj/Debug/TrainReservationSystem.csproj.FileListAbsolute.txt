@@ -14,3 +14,11 @@ C:\DotNet exercise\Mini Project zip\TrainReservationSystem\TrainReservationSyste
 C:\DotNet exercise\Mini Project zip\TrainReservationSystem\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.csproj.CoreCompileInputs.cache
 C:\DotNet exercise\Mini Project zip\TrainReservationSystem\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.exe
 C:\DotNet exercise\Mini Project zip\TrainReservationSystem\TrainReservationSystem\TrainReservationSystem\obj\Debug\TrainReservationSystem.pdb
+C:\DotNet Training\Mini Project\TrainReservationSystem\bin\Debug\TrainReservationSystem.exe.config
+C:\DotNet Training\Mini Project\TrainReservationSystem\bin\Debug\TrainReservationSystem.exe
+C:\DotNet Training\Mini Project\TrainReservationSystem\bin\Debug\TrainReservationSystem.pdb
+C:\DotNet Training\Mini Project\TrainReservationSystem\obj\Debug\TrainReservationSystem.csproj.AssemblyReference.cache
+C:\DotNet Training\Mini Project\TrainReservationSystem\obj\Debug\TrainReservationSystem.exe.config
+C:\DotNet Training\Mini Project\TrainReservationSystem\obj\Debug\TrainReservationSystem.csproj.CoreCompileInputs.cache
+C:\DotNet Training\Mini Project\TrainReservationSystem\obj\Debug\TrainReservationSystem.exe
+C:\DotNet Training\Mini Project\TrainReservationSystem\obj\Debug\TrainReservationSystem.pdb

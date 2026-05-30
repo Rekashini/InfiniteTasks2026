@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data.SqlClient;
+using System.Collections.Generic;
 
 namespace TrainReservationSystem
 {
@@ -171,6 +172,8 @@ namespace TrainReservationSystem
 
                 int bid = Convert.ToInt32(getid.ExecuteScalar());
 
+                List<string> passengerNames = new List<string>();
+
                 // PASSENGERS
                 for (int i = 1; i <= p; i++)
                 {
@@ -178,6 +181,8 @@ namespace TrainReservationSystem
 
                     Console.Write("Name: ");
                     string name = Console.ReadLine();
+
+                    passengerNames.Add(name);
 
                     Console.Write("Age: ");
                     int age = int.Parse(Console.ReadLine());
@@ -241,7 +246,13 @@ namespace TrainReservationSystem
                 Console.WriteLine("PNR: " + pnr);
                 Console.WriteLine("Train No: " + no);
                 Console.WriteLine("Class: " + cls);
-                Console.WriteLine("Passengers: " + p);
+
+                Console.WriteLine("Passengers:");
+                for (int i = 0; i < passengerNames.Count; i++)
+                {
+                    Console.WriteLine((i + 1) + ". " + passengerNames[i]);
+                }
+
                 Console.WriteLine("Amount: " + amount);
                 Console.WriteLine("Payment: " + payment);
                 Console.WriteLine("Status: Confirmed");

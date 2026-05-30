@@ -75,16 +75,17 @@ namespace TrainReservationSystem
 
             SqlCommand cmd = new SqlCommand(
                 @"SELECT td.TrainNo,
-                         td.TrainName,
-                         tcd.Class,
-                         tcd.Availability,
-                         tcd.Charges,
-                         td.Status
-                  FROM TrainDetails td
-                  JOIN TrainClassDetails tcd
-                  ON td.TrainNo=tcd.TrainNo
-                  WHERE td.FromPlace=@f
-                  AND td.ToPlace=@t", con);
+                 td.TrainName,
+                 td.Status,
+                 tcd.Class,
+                 tcd.Availability,
+                 tcd.Charges
+          FROM TrainDetails td
+          JOIN TrainClassDetails tcd
+          ON td.TrainNo = tcd.TrainNo
+          WHERE td.FromPlace=@f
+          AND td.ToPlace=@t
+          ORDER BY td.TrainNo", con);
 
             cmd.Parameters.AddWithValue("@f", from);
             cmd.Parameters.AddWithValue("@t", to);
@@ -93,21 +94,34 @@ namespace TrainReservationSystem
 
             SqlDataReader dr = cmd.ExecuteReader();
 
-            Console.WriteLine();
-            Console.WriteLine("Train | Name | Class | Seats | Charges | Status");
-            Console.WriteLine("------------------------------------------------");
+            int currentTrain = -1;
 
             while (dr.Read())
             {
+                int trainNo = Convert.ToInt32(dr["TrainNo"]);
+
+                if (trainNo != currentTrain)
+                {
+                    currentTrain = trainNo;
+
+                    Console.WriteLine();
+                    Console.WriteLine("----------------------------------");
+                    Console.WriteLine("Train No   : " + dr["TrainNo"]);
+                    Console.WriteLine("Train Name : " + dr["TrainName"]);
+                    Console.WriteLine("Status     : " + dr["Status"]);
+                    Console.WriteLine("----------------------------------");
+
+                    Console.WriteLine("CLASS | AVAILABLE | CHARGES");
+                    Console.WriteLine("-----------------------------");
+                }
+
                 Console.WriteLine(
-                    dr["TrainNo"] + " | " +
-                    dr["TrainName"] + " | " +
                     dr["Class"] + " | " +
                     dr["Availability"] + " | " +
-                    dr["Charges"] + " | " +
-                    dr["Status"]);
+                    dr["Charges"]);
             }
 
+            dr.Close();
             con.Close();
         }
 

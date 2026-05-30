@@ -82,3 +82,7 @@ VALUES('admin@gmail.com','admin123','Admin',1);
 
 select*from TrainDetails
 select*from CancellationDetails
+select*from Users
+select*from BookingDetails
+select*from PassengerDetails
+select*from TrainClassDetails
