@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@model CodeChallenge10_Ques2.Models.Movie
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Mid)
+
+    <p>Movie Name</p>
+    @Html.TextBoxFor(x => x.MovieName)
+
+    <p>Director Name</p>
+    @Html.TextBoxFor(x => x.DirectorName)
+
+    <p>Date Of Release</p>
+    @Html.TextBoxFor(x => x.DateOfRelease)
+
+    <br />
+    <br />
+
+    <input type="submit" value="Update" />
+}

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "YearResult";
+}
+
+<h2>YearResult</h2>
+
+@model IEnumerable<CodeChallenge10_Ques2.Models.Movie>
+
+<h2>Movies Released In Given Year</h2>
+
+<table border="1">
+    <tr>
+        <th>Movie</th>
+        <th>Director</th>
+        <th>Date</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MovieName</td>
+            <td>@item.DirectorName</td>
+            <td>@item.DateOfRelease</td>
+        </tr>
+    }
+</table>

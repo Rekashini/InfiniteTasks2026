@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@model CodeChallenge10_Ques2.Models.Movie
+
+@using (Html.BeginForm())
+{
+    <p>Movie Name</p>
+    @Html.TextBoxFor(x => x.MovieName)
+
+    <p>Director Name</p>
+    @Html.TextBoxFor(x => x.DirectorName)
+
+    <p>Date Of Release</p>
+    @Html.TextBoxFor(x => x.DateOfRelease)
+
+    <br />
+    <br />
+
+    <input type="submit" value="Save" />
+}
+

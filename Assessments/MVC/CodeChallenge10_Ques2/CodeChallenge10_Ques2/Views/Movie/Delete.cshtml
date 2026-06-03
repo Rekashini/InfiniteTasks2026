@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+@model CodeChallenge10_Ques2.Models.Movie
+
+<h3>Delete Movie?</h3>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(x => x.Mid)
+
+    <p>@Model.MovieName</p>
+
+    <input type="submit" value="Delete" />
+}
+

@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "MoviesByYear";
+}
+
+<h2>MoviesByYear</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Enter Year</label>
+
+    <input type="number" name="year" />
+
+    <input type="submit" value="Search" />
+}
