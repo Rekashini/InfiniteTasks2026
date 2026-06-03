@@ -3,56 +3,72 @@
   "WorkspaceRootPath": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\yearresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\yearresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\movie\\directorresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\directorresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|c:\\dotnet training\\assessments\\mvc\\codechallenge10_ques2\\codechallenge10_ques2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\movie\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\directorresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\directorresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\views\\yearresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\views\\yearresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|solutionrelative:codechallenge10_ques2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA6948E-5C40-4CF2-BC4C-C683BDE59944}|CodeChallenge10_Ques2\\CodeChallenge10_Ques2.csproj|C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\codechallenge10_ques2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -70,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +99,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f4e46f1e-cf83-40aa-b568-a627394bc994}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YearResult.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\YearResult.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\YearResult.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\YearResult.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\YearResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:54:43.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -110,32 +139,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\index.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\index.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\index.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:44:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:42:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:41:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:41:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:33:20.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:29:47.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:25:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DirectorResult.cshtml",
+              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\DirectorResult.cshtml",
+              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\DirectorResult.cshtml",
+              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\DirectorResult.cshtml",
+              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\DirectorResult.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T06:25:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MovieController.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Controllers\\MovieController.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Controllers\\MovieController.cs",
               "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Controllers\\MovieController.cs",
               "RelativeToolTip": "CodeChallenge10_Ques2\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T05:41:50.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DirectorResult.cshtml",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\DirectorResult.cshtml",
-              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\DirectorResult.cshtml",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\DirectorResult.cshtml",
-              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\DirectorResult.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:49:26.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "MoviesByDirector.cshtml",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\MoviesByDirector.cshtml",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\MoviesByDirector.cshtml",
@@ -143,24 +264,11 @@
               "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Movie\\MoviesByDirector.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:48:26.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T05:48:26.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "YearResult.cshtml",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\YearResult.cshtml",
-              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\YearResult.cshtml",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\YearResult.cshtml",
-              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\YearResult.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:47:50.915Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "MoviesByYear.cshtml",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Movie\\MoviesByYear.cshtml",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Movie\\MoviesByYear.cshtml",
@@ -173,43 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Delete.cshtml",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Delete.cshtml",
-              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:46:17.729Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Edit.cshtml",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Edit.cshtml",
-              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:45:32.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Create.cshtml",
-              "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Views\\Create.cshtml",
-              "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Views\\Create.cshtml",
-              "RelativeToolTip": "CodeChallenge10_Ques2\\Views\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-03T05:44:34.952Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "IMovieRepository.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Repository\\IMovieRepository.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Repository\\IMovieRepository.cs",
@@ -217,12 +289,11 @@
               "RelativeToolTip": "CodeChallenge10_Ques2\\Repository\\IMovieRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T05:37:53.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T05:37:53.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MovieRepository.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Repository\\MovieRepository.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Repository\\MovieRepository.cs",
@@ -235,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "202606030535146_InitialCreate.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Migrations\\202606030535146_InitialCreate.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Migrations\\202606030535146_InitialCreate.cs",
@@ -247,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Migrations\\Configuration.cs",
@@ -255,11 +326,12 @@
               "RelativeToolTip": "CodeChallenge10_Ques2\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T05:33:11.648Z"
+              "WhenOpened": "2026-06-03T05:33:11.648Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Web.config",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Web.config",
@@ -272,26 +344,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "MovieContext.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Models\\MovieContext.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Models\\MovieContext.cs",
               "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Models\\MovieContext.cs",
               "RelativeToolTip": "CodeChallenge10_Ques2\\Models\\MovieContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T05:26:33.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "Movie.cs",
               "DocumentMoniker": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Models\\Movie.cs",
               "RelativeDocumentMoniker": "CodeChallenge10_Ques2\\Models\\Movie.cs",
               "ToolTip": "C:\\DotNet Training\\Assessments\\MVC\\CodeChallenge10_Ques2\\CodeChallenge10_Ques2\\Models\\Movie.cs",
               "RelativeToolTip": "CodeChallenge10_Ques2\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T05:23:38.974Z",
               "EditorCaption": ""
