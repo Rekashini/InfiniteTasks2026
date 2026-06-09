@@ -1,0 +1,24 @@
+﻿@using CodeChallenge11_Ques2.Models
+@model List<OrderViewModel>
+
+<h2>Buchanan Steven Orders</h2>
+
+<table border="1">
+    <tr>
+        <th>Order ID</th>
+        <th>Date</th>
+        <th>Customer</th>
+        <th>Freight</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.OrderDate</td>
+            <td>@item.CustomerID</td>
+            <td>@item.Freight</td>
+        </tr>
+    }
+</table>
+
